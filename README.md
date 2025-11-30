@@ -1,4 +1,5 @@
-# Video Scene Analyzer
+# Video Scene Analyzer<img width="1902" height="990" alt="Screenshot 2025-11-30 at 6 27 09 AM" src="https://github.com/user-attachments/assets/aea6e170-7426-42b2-89d9-2095735fa8ed" />
+
 
 This project consists of a Next.js frontend and a FastAPI backend.
 
