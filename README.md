@@ -1,5 +1,11 @@
 # Video to text Intelligenec <img width="1902" height="990" alt="Screenshot 2025-11-30 at 6 27 09 AM" src="https://github.com/user-attachments/assets/aea6e170-7426-42b2-89d9-2095735fa8ed" />
 
+video-intelligence/
+├─ frontend/      <- React / Next.js code
+├─ backend/       <- Node.js / Express code
+├─ package.json
+├─ README.md
+
 
 This project consists of a Next.js frontend and a FastAPI backend.
 
