@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-multipart
+opencv-python
+scenedetect[opencv]
+openai-whisper
+ultralytics
+numpy
+torch
+torchvision
+torchaudio
+yt-dlp

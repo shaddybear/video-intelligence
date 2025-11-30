@@ -1,0 +1,19 @@
+# System files
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Backend
+backend/uploads/
+backend/results/
+backend/venv/
+
+# Frontend (Next.js)
+frontend/.next/
+frontend/node_modules/
+frontend/.env*.local
