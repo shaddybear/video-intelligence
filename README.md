@@ -57,7 +57,4 @@ This project consists of a Next.js frontend and a FastAPI backend.
    npm run dev
    ```
    The frontend will be available at `http://localhost:3000`.
-# Video-Intellingence-reimagaine1
-# Video-Intellingence-reimagaine1
-# Video-Intellingence-reimagaine1
-# Video-Intellingence-reimagaine1
+# Video-text-Intellingence
