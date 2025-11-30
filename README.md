@@ -53,3 +53,4 @@ This project consists of a Next.js frontend and a FastAPI backend.
 # Video-Intellingence-reimagaine1
 # Video-Intellingence-reimagaine1
 # Video-Intellingence-reimagaine1
+# Video-Intellingence-reimagaine1
